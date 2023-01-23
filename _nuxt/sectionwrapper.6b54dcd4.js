@@ -1,0 +1,1 @@
+import{V as s,f as o,B as t,Y as r,o as c}from"./entry.dbe757cc.js";const a={},n={class:"section-wrapper"};function l(e,_){return c(),o("section",null,[t("div",n,[r(e.$slots,"default")])])}const f=s(a,[["render",l]]);export{f as default};
