@@ -1,0 +1,1 @@
+import{_ as s,a7 as a,ac as t,aj as o,$ as c}from"./_plugin-vue_export-helper.2fc013a1.js";const r={},n={class:"primary-bg aos-init aos-animate"},i={class:"section-wrapper"};function _(e,d){return c(),a("section",n,[t("div",i,[o(e.$slots,"default")])])}const p=s(r,[["render",_]]);export{p as default};
