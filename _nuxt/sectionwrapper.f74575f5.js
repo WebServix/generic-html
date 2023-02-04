@@ -1,1 +1,0 @@
-import{V as s,f as o,l as t,Y as r,o as c}from"./entry.81ce3418.js";const a={},n={class:"section-wrapper"};function l(e,_){return c(),o("section",null,[t("div",n,[r(e.$slots,"default")])])}const f=s(a,[["render",l]]);export{f as default};

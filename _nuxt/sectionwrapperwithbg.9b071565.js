@@ -1,1 +1,0 @@
-import{V as s,f as t,l as o,Y as a,o as r}from"./entry.81ce3418.js";const c={},n={class:"primary-bg aos-init aos-animate"},i={class:"section-wrapper"};function _(e,l){return r(),t("section",n,[o("div",i,[a(e.$slots,"default")])])}const p=s(c,[["render",_]]);export{p as default};
