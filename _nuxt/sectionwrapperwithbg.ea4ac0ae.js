@@ -1,1 +1,0 @@
-import{W as s,a as t,b as a,X as o,o as r}from"./entry.f18f1398.js";const c={},n={class:"primary-bg aos-init aos-animate"},i={class:"section-wrapper"};function _(e,d){return r(),t("section",n,[a("div",i,[o(e.$slots,"default")])])}const p=s(c,[["render",_]]);export{p as default};
