@@ -1,1 +1,0 @@
-import{_ as s,a7 as a,ac as t,aj as c,$ as o}from"./_plugin-vue_export-helper.2fc013a1.js";const r={},n={class:"section-wrapper"};function l(e,_){return o(),a("section",null,[t("div",n,[c(e.$slots,"default")])])}const i=s(r,[["render",l]]);export{i as default};
