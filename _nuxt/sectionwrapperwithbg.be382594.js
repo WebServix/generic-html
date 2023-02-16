@@ -1,1 +1,0 @@
-import{S as s,a as t,b as a,U as o,o as r}from"./entry.39dc2033.js";const c={},n={class:"primary-bg aos-init aos-animate"},i={class:"section-wrapper"};function _(e,d){return r(),t("section",n,[a("div",i,[o(e.$slots,"default")])])}const p=s(c,[["render",_]]);export{p as default};
